@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77750976064",
+    "project_id": "soulcode-4d4a5",
+    "storage_bucket": "soulcode-4d4a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77750976064:android:022b3b4b5a1920445e29a5",
+        "android_client_info": {
+          "package_name": "com.soulcode.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77750976064-h8f8qvgo0fehgia2sku8g87h1ikp591u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA35Fd83VqbuDWo86c-Xe_sK5OivhwYZx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77750976064-h8f8qvgo0fehgia2sku8g87h1ikp591u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
